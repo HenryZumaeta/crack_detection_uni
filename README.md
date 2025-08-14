@@ -33,7 +33,7 @@ pip install torch transformers albumentations scikit-image opencv-python numpy m
    Clasifica la grieta (e.g., "Transversal").
 
 ## Contexto
-Parte de la tesis: "Detección y clasificación de grietas en pavimentos para mejorar el mantenimiento preventivo en Perú usando Deep Learning".
+Parte de la tesis: "Detección de Grietas en Pavimentos para Mejorar el Mantenimiento Preventivo en Perú usando Deep Learning".
 
 ## Licencia
 MIT License.
